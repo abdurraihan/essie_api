@@ -129,8 +129,8 @@ export const likePostAndSendMail = async (req, res) => {
             display: block;
             font-family: 'Poppins', Arial, sans-serif;
             font-weight: 600;
-            font-size: 75px;
-            line-height: 75px;
+            font-size: 20px;
+            line-height: 25px;
             letter-spacing: 0;
             margin-bottom: 4px;
             color: #000000;
